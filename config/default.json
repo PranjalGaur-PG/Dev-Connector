@@ -1,3 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://PranjalGaur:PranjalGaur@devconnector.putxb.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://PranjalGaur:PranjalGaur@devconnector.putxb.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "SecretToken",
+  "githubToken": "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"
 }
